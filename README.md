@@ -1,4 +1,4 @@
-# KISA Vulnerability improvement repository based on key information communication-based technology vulnerabilities
+# Security improvement repository based on KISA information and communication-based core technology vulnerabilities
 [KISA.PDF](https://www.krcert.or.kr/data/guideView.do?bulletin_writing_sequence=35988)
 
 This is a repository that actually analyzes and reorganizes vulnerabilities based on reports issued by Korean government organizations.
