@@ -1,7 +1,7 @@
 
-| service       | Function           |
-| ------------- | ---------------------- |
-| echo(7)       |
+| service       | Function                                                                                           |
+| ------------- | -------------------------------------------------------------------------------------------------- |
+| echo(7)       | ICMP echo reply attack is a basical DDos attack, ROK rejects responses to echo in ICMP by default. |
 | discard(9)    |
 | daytime(13)   |
 | chargen(19)   |

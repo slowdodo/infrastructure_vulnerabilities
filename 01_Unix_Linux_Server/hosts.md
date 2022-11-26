@@ -1,3 +1,7 @@
+# What is hosts?
+<!-- hosts is basically use a tripwire for network.  
+It can effectively deny from specific IP, Which is can -->
+
 # safe
 600 under
 
