@@ -1,0 +1,5 @@
+
+``` mysql
+use mysql;
+UPDATE USER SET PASSWORD=PASSWORD('NEW PASWORD') WHERE USER='root';
+```
