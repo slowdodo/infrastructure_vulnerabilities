@@ -1,6 +1,6 @@
 # Root account remote connect session limit
 
-> /etc/ssj/sshd_config
+> /etc/ssh/sshd_config
 
 ``` bash
 PermitRootLogin no
